@@ -1,6 +1,6 @@
 import pytest
 
-from session_mock.skeleton import fib, main
+from skeleton import fib, main
 
 __author__ = "Hung Nguyen"
 __copyright__ = "Hung Nguyen"
